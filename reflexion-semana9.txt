@@ -1,0 +1,9 @@
+Es importante que las plataformas tecnológicas usadas por las comunidades 
+funcionen estable y seguramente debido a que estas al plantearse como un 
+medio de participación y comunicación entre comunidades y autoridades. Un 
+funcionamiento estable garantiza que los usuarios puedan acceder a los 
+servicios sin interrupciones, mientras que la seguridad ayuda a proteger los 
+datos personales/sensibles y la información compartida. Además, el 
+mantenimiento constante de los servidores permite detectar posibles errores, 
+optimizar el rendimiento y fortalecer la protección del mismo, contribuyendo a 
+que la plataforma sea confiable, estable y útil para toda la comunidad.
